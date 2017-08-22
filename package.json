@@ -1,0 +1,19 @@
+{
+  "name": "voting-on-etherium-blockchain",
+  "version": "1.0.0",
+  "description": "Exploring DAPPs on Ethereum Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickymiron/voting-on-etherium-blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickymiron/voting-on-etherium-blockchain/issues"
+  },
+  "homepage": "https://github.com/nickymiron/voting-on-etherium-blockchain#readme"
+}
